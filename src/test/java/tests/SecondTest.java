@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class SecondTest {
 	
-	@Test
+	//@Test
 	public void IETest()
 	{
 		System.setProperty("webdriver.ie.driver", "E:\\Automation\\IEDriverServer.exe");
